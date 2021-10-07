@@ -4,14 +4,14 @@
 
 We want to help developers learn remotely and grow professionally through a diverse range of virtual events. 
 
-We need your help to make sure the topics, speakers, and formats for our virtual events will bring value to developers. Your feedback will also help aspiring speakers improve their public speaking skills and gain more confidence as developers!
+We need your help to make sure the topics, speakers, and formats for our virtual events are relevant and helpful. Your feedback and encouragement will also help speakers improve their public speaking skills and gain more confidence!
 
 ## How you can share your thoughts
 
-We've shared some topics that we think would be interesting. We'd love you to: 
+The Discussions tab includes topics that we find interesting. We'd love you to: 
 
-- 👀 Browse the list of topic ideas in "[Discussions](https://github.com/CodementorIO/event-topics/discussions)" tab
-- ⬆️ Upvote the topics you find interesting
-- 💬 Answer the speaker's questions and provide other feedback 
+- 👀 Browse the list of topic ideas under [Discussions](https://github.com/CodementorIO/event-topics/discussions)
+- ⬆️ Upvote topics you find interesting
+- 💬 Answer speakers' questions and provide other feedback 
 
-If you don't see any interesting topics or would like to add more, please leave a comment in [this thread](https://github.com/CodementorIO/event-topics/discussions/2)!
+If you don't see any interesting topics or would like to suggest others, please leave a comment in [this thread](https://github.com/CodementorIO/event-topics/discussions/2)!
