@@ -1,10 +1,10 @@
 # Codementor Event Topics
 
-## Thanks for joining us and sharing your thoughts on our event topics!
+**Thanks for joining us and sharing your thoughts on our event topics!**
 
-Our primary goal is to create a diverse range of virtual events to help developers learn remotely and grow professionally. Our second goal is to help developers become better speakers. 
+We want to help developers learn remotely and grow professionally through a diverse range of virtual events. 
 
-We want your help to make sure the topics, speakers, and formats for our virtual events will bring value to developers. We hope your feedback will also help aspiring speakers improve their public speaking skills and gain more confidence as developers!
+We need your help to make sure the topics, speakers, and formats for our virtual events will bring value to developers. Your feedback will also help aspiring speakers improve their public speaking skills and gain more confidence as developers!
 
 ## How you can share your thoughts
 
